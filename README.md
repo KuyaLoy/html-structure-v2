@@ -1,5 +1,8 @@
 # my-frontend-structure
 
+bootstrap ready
+
+
 type on terminal
 
 to install independecies
@@ -11,13 +14,13 @@ run gulp to minify js
 im using live server plugins in vs code for my browsersync
 
 im using live sass compiler by gleen marks with json setting bellow
+
 "liveSassCompile.settings.formats": [
     {
         "format": "compressed",
         "extensionName": ".min.css",
         "savePath": "/assets/css"
     }
-
 ],
 "liveSassCompile.settings.excludeList": [
     "/**/node_modules/**",
@@ -26,7 +29,6 @@ im using live sass compiler by gleen marks with json setting bellow
 "liveSassCompile.settings.generateMap": false,
 //autoprefix, will auto add perfix like -webkit- -moz-..
 "liveSassCompile.settings.autoprefix": [
-
     "> 1%",
     "last 2 versions"
 ],
