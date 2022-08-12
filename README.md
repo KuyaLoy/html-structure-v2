@@ -1,4 +1,4 @@
-# my-frontend-structure
+# my-frontend-structure-using-gulpJS
 
 bootstrap ready
 
